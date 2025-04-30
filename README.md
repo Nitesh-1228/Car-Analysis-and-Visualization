@@ -15,4 +15,4 @@ For visualization, the project includes a histogram of car prices, a scatter plo
 This project includes several useful features such as loading a dataset from a CSV file, cleaning the data by removing duplicates and low-sale records, and filling missing values with averages. It also performs basic statistical analysis like calculating mean, mode, and sum for selected columns. Additionally, the script groups data by engine size to analyze price trends, and creates visualizations including a histogram, scatter plot, pie chart, line graph, and bar chart to help better understand the dataset.
 
 ->Clone the repository:
-  
+  git clone https://github.com/Nitesh-1228/Car-Analysis-and-Visualization.git
